@@ -1,11 +1,11 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="org.sufficientlysecure.viewer.fontpack"
-    android:versionCode="2100"
-    android:versionName="2.1" >
+    android:versionCode="2200"
+    android:versionName="2.2" >
 
     <uses-sdk
         android:minSdkVersion="8"
-        android:targetSdkVersion="17" />
+        android:targetSdkVersion="19" />
 
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
 
