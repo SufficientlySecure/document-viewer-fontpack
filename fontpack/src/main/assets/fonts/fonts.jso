@@ -1,5 +1,52 @@
 [
 {
+    name : "Linux Biolinum",
+    sans :
+    {
+         "regular"     : "LinLibertine/LinBiolinum_Rah.ttf",
+         "italic"      : "LinLibertine/LinBiolinum_RIah.ttf",
+         "bold"        : "LinLibertine/LinBiolinum_RBah.ttf"
+    }
+},
+{
+    name : "Linux Libertine",
+    mono :
+    {
+         "regular"     : "LinLibertine/LinLibertine_Mah.ttf"
+    },
+    serif :
+    {
+         "regular"     : "LinLibertine/LinLibertine_Rah.ttf",
+         "italic"      : "LinLibertine/LinLibertine_RIah.ttf",
+         "bold"        : "LinLibertine/LinLibertine_RBah.ttf",
+         "bold italic" : "LinLibertine/LinLibertine_RBIah.ttf"
+    }
+},
+{
+    name : "DejaVu",
+    mono :
+    {
+         "regular"     : "DejaVu/DejaVuSansMono.ttf",
+         "italic"      : "DejaVu/DejaVuSansMono-Oblique.ttf",
+         "bold"        : "DejaVu/DejaVuSansMono-Bold.ttf",
+         "bold italic" : "DejaVu/DejaVuSansMono-BoldOblique.ttf"
+    },
+    sans :
+    {
+         "regular"     : "DejaVu/DejaVuSans.ttf",
+         "italic"      : "DejaVu/DejaVuSans-Oblique.ttf",
+         "bold"        : "DejaVu/DejaVuSans-Bold.ttf",
+         "bold italic" : "DejaVu/DejaVuSans-BoldOblique.ttf"
+    },
+    serif :
+    {
+         "regular"     : "DejaVu/DejaVuSerif.ttf",
+         "italic"      : "DejaVu/DejaVuSerif-Italic.ttf",
+         "bold"        : "DejaVu/DejaVuSerif-Bold.ttf",
+         "bold italic" : "DejaVu/DejaVuSerif-BoldItalic.ttf"
+    }
+},
+{
     name : "FreeFonts",
     mono :
     {
