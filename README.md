@@ -30,3 +30,9 @@ http://svn.ghostscript.com/ghostscript/trunk/ghostpdl/urwfonts/
 Free NimbusL fonts:
 http://www.gnu.org/software/freefont/sources/resources.html#URW
 http://svn.ghostscript.com/ghostscript/trunk/ghostpdl/urwfonts/ 
+
+DejaVu fonts:
+http://dejavu-fonts.org/
+
+Linux Libertine and Biolinum fonts:
+http://linuxlibertine.org/
