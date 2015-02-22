@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="org.sufficientlysecure.viewer.fontpack"
-    android:versionCode="2200"
-    android:versionName="2.2" >
+    android:versionCode="2300"
+    android:versionName="2.3" >
 
     <uses-sdk
         android:minSdkVersion="8"
