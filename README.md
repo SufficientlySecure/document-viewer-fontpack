@@ -1,6 +1,8 @@
-Provides additional fonts for Document Viewer.
+# Discontinued
 
-Please report bugs on main project: https://github.com/dschuermann/document-viewer/issues
+This was a addon for [Document Viewer](https://github.com/PrivacyApps/document-viewer) which provided additional fonts.
+
+Our MuPDF patches to support this no longer apply cleanly, so support for the font pack was dropped.
 
 ### Build with Gradle
 
